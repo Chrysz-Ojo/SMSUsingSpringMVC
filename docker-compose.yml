@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web:
+    image: your-docker-image-name
+    ports:
+      - "8080:8080"
+  database:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: smsDB
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
