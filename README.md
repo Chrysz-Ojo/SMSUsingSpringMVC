@@ -12,7 +12,7 @@ Spring MVC offers features like request mapping, data binding, validation, and i
 
 
 echo >> README.md
-git init.
+git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
