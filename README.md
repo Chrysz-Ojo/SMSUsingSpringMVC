@@ -9,7 +9,7 @@ This Spring MVC project is a Java-based web application built using the Spring F
 Spring MVC offers features like request mapping, data binding, validation, and internationalization, making it a popular choice for developing scalable and maintainable web applications. It's often used for building web applications, RESTful APIs, and more, providing a structured and organized approach to web development in Java.
 
 <img src="https://github.com/Chrysz-Ojo/SMSUsingSpringMVC/blob/main/SMSUsingSpringMVC/Screen%20Shot%202023-09-12%20at%201.56.06%20AM.png"/>
-like
+l
 
 echo >> README.md
 git init
