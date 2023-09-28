@@ -10,7 +10,6 @@ Spring MVC offers features like request mapping, data binding, validation, and i
 
 <img src="https://github.com/Chrysz-Ojo/SMSUsingSpringMVC/blob/main/SMSUsingSpringMVC/Screen%20Shot%202023-09-12%20at%201.56.06%20AM.png"/>
 
-
 echo >> README.md
 git init
 git add README.md
