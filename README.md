@@ -5,6 +5,7 @@ This Spring MVC project is a Java-based web application built using the Spring F
 - **Model:** Represents the application's data and business logic.
 - **View:** Handles the presentation layer and generates the user interface.
 - **Controller:** Manages the flow of requests and acts as an intermediary between the model and view.
+- 
 
 Spring MVC offers features like request mapping, data binding, validation, and internationalization, making it a popular choice for developing scalable and maintainable web applications. It's often used for building web applications, RESTful APIs, and more, providing a structured and organized approach to web development in Java.
 
